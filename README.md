@@ -28,6 +28,10 @@ git clone https://github.com/himanjalsaha/rn-assignment
 ```bash
 npm i
 ```
-``bash
+
+
+```bash
 npm start
+
 ```
+ 
